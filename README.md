@@ -20,7 +20,6 @@ Write down the code for book cover using HTML and CSS.
 
 Add images and other contents using CSS record a screenshot of it.
 
-
 ## Code:
 ```
 <!DOCTYPE html>
@@ -141,6 +140,14 @@ Add images and other contents using CSS record a screenshot of it.
     </body>
 </html>
 ```
+
+
+
+
+
+
+
+
 
 ## Output:
 ![](cover.png)
